@@ -1,0 +1,19 @@
+/* CSS CUSTOMIZADO POR CENTRO INFORMÁTICO MILLENIUM */
+#wrapper {
+    background: #ffffff;
+}
+.btn-secondary, .btn-secondary.disabled, .btn-secondary:disabled, .btn-outline-secondary:hover, .btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .show > .btn-outline-secondary.dropdown-toggle, .badge-secondary, .bg-secondary, .btn.btn-secondary, .btn.btn-secondary.disabled, .btn.btn-secondary:disabled, .slick-dots li button {
+    background-color: #2f2482;
+}
+.product-manufacturer span a {
+    background-color: #c20416;
+    color: #ffffff;
+    padding: 5px;
+}
+.product-manufacturer span a:hover {    
+    background-color: #8f0010;    
+}
+.custom-checkbox-wrapper label {
+    font-weight: 700 !important;
+}
+
